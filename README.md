@@ -1,6 +1,10 @@
 # lending_club_case_study
 
-## Steps performed
+### ManishGautam.ipynb - this file contains all the code for the analysis, it's a Jupyter Notebook
+### Lending Club Case Study.pdf - this file contains all the analysis and charts
+
+100.0%
+## Steps performed for the analysis
 ### 1. Importing main libraries
 ### 2. Loading data from CSV into dataframe
 ### 3. Writing common functions to render bar and count plot
