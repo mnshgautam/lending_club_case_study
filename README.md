@@ -47,4 +47,31 @@
             2. int_rate_bucket
             3. loan_amnt_bucket
 ### 6. Multivariate Analysis
+        ## Correlation Metrics Insights
+        Installment has a strong correlation with loan_amnt, funded_amnt, and annual income.
+        term` has a good correlation with interest rate
+        
+        
+        Employment length has a very weak correlation with most of the parameters.
+        Issues month and year also have no correlation with any parameter.
+
 ### 7. Summary of Analysis   
+        1. Almost 14% of loans are charged off.
+        2. Grade E, F, & G loans are the major defaulters and have been correctly graded. Grades are the strongest predictor of the default. 
+        3. Grade A has the least defaulters but still got some defaulters; grading could be done better to minimize the defaulters in Grade A to avoid business losses.
+        4. Loans with subgrades of F and G are the major defaulters.
+        5. Employment length has no impact on the defaulting, and we can see across the range of the experience that people are defaulting.
+        6. A loan with the longer term has almost double the chance of defaulting compared to a short term; the company should promote short-term goals.
+        7. Given numbers of loans were less in 2007, almost 29% got charged off.
+        8. February is the month where the least number of loans has been issued; this is in sync with the financial year cycle, because of March being the financial year end. This makes sense, and the last quarter of the year has the least number of loans issued.
+        9. WY state has the least defaulters, and NY has the maximum; this could also be because NY is the financial capital, and more loans are issued in NY; hence, more defaulters. CA has the maximum loans but average defaulters.
+        10. Home ownership is not a strong parameter to determine the defaulter.
+        11. Small businesses have seen the maximum defaulters; hence, the company should do more due diligence before giving loans in this sector. Bigger purchases seem to have minimum defaulters; it could also mean people with higher incomes doing those purchases and paying up the loans in time.
+        12. Surprisingly, verified loans have defaulted more, which is serious, and the company could do better here and make the verification process work in favor of the company by avoiding bad loans; this could also indicate corruption in the verification process.
+        13. People with higher annual incomes seem to be doing better, and companies should target loans to such profiles.
+        14. The highest interest rate loans are defaulting more; this makes sense, as usually not-so-good credit score profiles get loans at higher interest rates and get defaulted. The company could avoid such loans and make the best of the loans where interest rates are lowest.
+        15. Bigger loans seem to be defaulting more; the company can do more scrutiny here and try to bring down the loan amount for better outcomes for the company.
+        16. People with the maximum income are going for the maximum loans, which is good for the company as they default less.
+        
+
+
